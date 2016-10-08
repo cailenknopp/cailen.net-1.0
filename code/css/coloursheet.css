@@ -1,3 +1,4 @@
+<!--Using color variables will not work on ios devices, and so this file is not to be used.-->
 :root {
     /*Colours*/
     --bg-colour--: black;
