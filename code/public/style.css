@@ -1,0 +1,76 @@
+body {
+    font-family: ProFontWindows;
+    line-height: 120%;
+    background-color: black;
+    width: 700px;
+}
+
+a {
+    color: chartreuse;
+}
+
+a:hover {
+    color: cyan;
+}
+
+img {
+    border: 2px;
+    border-style: dotted;
+    border-color: darkorange;
+}
+
+.imgInfo {
+    margin-top: 0;
+}
+
+/*ID's*/
+
+#link-ref {
+    color: purple;
+}
+
+/*Page Header*/
+
+.pgHeader {
+	color: darkorange;
+	
+	border-bottom:1px;
+	border-bottom-style: dashed;
+	border-bottom-color: darkorange;
+}
+
+/*Page Body*/
+
+.pgBody {
+    color: tomato;
+    
+    border-bottom:1px;
+	border-bottom-style: dashed;
+	border-bottom-color: darkorange;
+}
+
+/*Page News/Secondary Block*/
+
+.pgNews {
+    color: tomato;
+        
+    border-bottom:1px;
+	border-bottom-style: dashed;
+	border-bottom-color: darkorange;
+}
+
+/*Page Links*/
+
+.pgLinks {
+    color: tomato;
+    
+    border-bottom:1px;
+	border-bottom-style: dashed;
+	border-bottom-color: darkorange;
+}
+
+/*Page Footer*/
+
+.pgFooter {
+    color: tomato;
+}
