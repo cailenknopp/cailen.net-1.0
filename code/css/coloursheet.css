@@ -1,0 +1,23 @@
+:root {
+    /*Colours*/
+    --bg-colour--: black;
+    
+    --header-colour--: darkorange;
+    --header-border--colour: darkorange;
+    
+    --body-colour--: tomato;
+    --body-border-colour--: darkorange;
+    
+    --news-colour--: tomato;
+
+    --links-div-colour--: tomato;
+    
+    --link-colour--: chartreuse;
+    --link-hover-colour--: cyan;
+    --link-ref-colour--: purple;
+    
+    --footer-colour--: tomato;
+    
+    /*Elements Colours*/
+    --img-border-colour--: darkorange;
+}
