@@ -1,4 +1,4 @@
-<!--Using color variables will not work on ios devices, and so this file is not to be used.-->
+<!--Color variables do not work on all devices/browsers. Therefore, ignore this file - instead use as a reference.-->
 :root {
     /*Colours*/
     --bg-colour--: black;
